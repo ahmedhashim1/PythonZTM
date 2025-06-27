@@ -4,5 +4,10 @@
 
 #Data Structure
 
-amazon_cart = ['notebooks', 'sunglasses']
-print(amazon_cart[1])
+amazon_cart = ['notebooks',
+               'sunglasses',
+               'toys',
+               'grapes']
+print(amazon_cart[0:2])
+
+#Slicing
