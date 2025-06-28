@@ -59,3 +59,7 @@
 # fruits.clear()
 # print(fruits)
 # Output: []
+basket = ['a', 'b', 'c', 'd', 'e']
+print(basket.index('d', 0, 4))
+print(basket.sort())
+print(basket)
